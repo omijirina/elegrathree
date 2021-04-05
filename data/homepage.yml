@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Hoy en día, los medicamentos para bajar de peso se perciben como una parte absolutamente integral de nuestra vida."
-  content : "¡La droga es una acción compleja y poderosa! Asesino del apetito! Da excelentes resultados de larga duración."
+  title : "Quema calorías de los alimentos."
+  content : "La fórmula innovadora le ayuda a deshacerse de la grasa y el exceso de peso mucho más rápido."
   image : "images/banner.png"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Este producto está elaborado únicamente con ingredientes naturales y no incluye aditivos químicos como la sibutramina. En la producción, se utilizan extractos y extractos de plantas."
+  content : "Las cápsulas Fat Zorb resuelven perfectamente el problema de la pérdida de peso en poco tiempo, es un medicamento de acción prolongada que le permite no aumentar de peso durante mucho tiempo."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Dado que la droga estimula la eliminación de toxinas y productos de desecho, consuma tanta agua limpia como sea posible. También estimula la oxigenación de la piel y ayuda a evitar la aparición de flacidez con pérdida de volumen corporal importante."
+  content : "Una cápsula por la mañana y por la noche."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,26 +89,19 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "Después de dar a luz, gané kg de más. No podía decidir qué medicamento elegir, tenía miedo de los efectos secundarios. Paré en Fatzorb. Lo recogí en la oficina de correos, bebo el quinto día, menos 3 kg."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "¡Hola chicas! El peso va perfectamente, pero además de las vitaminas a veces también permito los dulces. En volumen en el papa pasé de 122 cm a 107 cm. Además bebo colágeno. Tengo 45 años."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "Es mejor que eso, ¡lo he intentado!"
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Kalista Tankara"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
-      rating : "four" # rating star, one to five
